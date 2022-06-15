@@ -1,0 +1,29 @@
+{
+    "signInEmailHint": "Email",
+    "signInPasswordHint": "Password",
+    "signInEnterButtonLabel": "Enter",
+    "signInCreateAccountTextLineOne": "Not registered yet?",
+    "signInCreateAccountTextLineTwo": "Click here and register",
+    "signInErrorMessage": "Cannot login, tray again later!",
+
+    "signUpEmailHint": "Email",
+    "signUpPasswordHint": "Password",
+    "signUpRepeatPasswordHint": "Repeat password",
+    "signUpRegisterButtonLabel": "Register",
+    "signUpBackButtonLabel": "Back to login",
+    "signUpErrorMessageText": "Cannot register user, tray again later!",
+    "signUpRequiredFieldsErrorMessageText": "Please, enter with required fields",
+    "signUpInvalidEmailErrorMessageText": "Please, enter with a valid email",
+    "signUpInvalidRepeatedPasswordErrorMessageText": "Please, enter with same values in both password fields",
+
+    "logoutDialogTitle": "Logout",
+    "logoutDialogMessage": "Do you really want logout?",
+    "logoutDialogCancelButtonLabel": "Cancel",
+    "logoutDialogConfirmButtonLabel": "Logout",
+
+    "moviesErrorOnLoadMessage": "Sorry, an error occurred when load movies, try again later!",
+    "popularMoviesLabel": "Popular",
+    "topRatedMoviesLabel": "Top rated",
+    "nowPlayingMoviesLabel": "Now playing",
+    "upcomingMoviesLabel": "Upcoming"
+}

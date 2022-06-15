@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "702815321617",
+    "project_id": "davis-fiap",
+    "storage_bucket": "davis-fiap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702815321617:android:d09fedd6a7a7fe4c4a7bb0",
+        "android_client_info": {
+          "package_name": "com.mba.davis.flutter.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702815321617-v5njklj7nbjc1mte4nreild11ac55on6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO2tS6L1vn45z3Ow3pEtU_PBnbNnBEclM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702815321617-v5njklj7nbjc1mte4nreild11ac55on6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "702815321617-mrs6k2aai0uv5a4383sf3mkcljghacb9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.davisamaral.ShoppingList"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

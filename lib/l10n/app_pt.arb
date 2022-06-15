@@ -1,0 +1,29 @@
+{
+    "signInEmailHint": "E-mail",
+    "signInPasswordHint": "Senha",
+    "signInEnterButtonLabel": "Entrar",
+    "signInCreateAccountTextLineOne": "Anda não é cadastrado?",
+    "signInCreateAccountTextLineTwo": "Clique aqui e cadastre-se!",
+    "signInErrorMessage": "Não foi possível fazer o login, tente novamente mais tarde!",
+
+    "signUpEmailHint": "E-mail",
+    "signUpPasswordHint": "Senha",
+    "signUpRepeatPasswordHint": "Repita a senha",
+    "signUpRegisterButtonLabel": "Cadastrar",
+    "signUpBackButtonLabel": "Voltar para o login",
+    "signUpErrorMessageText": "Não foi possível fazer o cadastro, tente novamente mais tarde!",
+    "signUpRequiredFieldsErrorMessageText": "Por favor, digite os campos obrigatórios",
+    "signUpInvalidEmailErrorMessageText": "Por favor, digite um e-mail válido",
+    "signUpInvalidRepeatedPasswordErrorMessageText": "Por favor, repita a mesma senha em ambos os campos",
+
+    "logoutDialogTitle": "Sair",
+    "logoutDialogMessage": "Deseja realmente sair?",
+    "logoutDialogCancelButtonLabel": "Cancelar",
+    "logoutDialogConfirmButtonLabel": "Sair",
+
+    "moviesErrorOnLoadMessage": "Desculpe, ocorreu um erro ao carregar os filmes, tente novamente mais tarde!",
+    "popularMoviesLabel": "Popular",
+    "topRatedMoviesLabel": "Bem avaliados",
+    "nowPlayingMoviesLabel": "Em cartaz",
+    "upcomingMoviesLabel": "Em breve nos cinemas"
+}
